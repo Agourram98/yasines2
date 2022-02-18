@@ -21,10 +21,10 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "0",
+    "mode_ads_interstitial" : "0",
     "mode_ads_interstitial_mix" : "0",
-    "mode_ads_native_enabled" : true,
+    "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "0",
     "mode_button_ads_action" : "0",
     "unity" : {
@@ -35,8 +35,8 @@
     },
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "https://play.google.com/store/apps/developer?id=",
-      "update_msg" : "update your app for grt all favorite now",
+      "update_action" : "",
+      "update_msg" : "update your app",
       "update_state" : false,
       "update_title" : "update your app"
     },
